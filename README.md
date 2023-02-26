@@ -1,2 +1,2 @@
 # phodegaDSA
-It contains Programming &amp; DSA related questions. Practicising these questions will enhance your Problem Solving Skill.
+It contains Programming &amp; DSA related questions. Practicing these questions will enhance your Problem Solving Skill.
